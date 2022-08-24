@@ -1,0 +1,11 @@
+.displayinline {
+    display: inline-block;
+
+}
+.margin {
+    margin: 0%;
+}
+.form {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
